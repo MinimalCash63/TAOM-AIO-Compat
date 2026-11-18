@@ -1,0 +1,17 @@
+<Brushes>
+  <!-- RBM switch. Copy of Native's Frame1Brush (Native\GUI\Brushes\Main.xml). TAOM replaces that whole file, so
+       under TAOM Frame1Brush draws a bright parchment. The AIO module sets this brush on the frame of RBM's
+       Changelog window only, so its light text stays readable. Every other screen keeps TAOM's Frame1Brush. -->
+  <Brush Name="TAOM_AIO.RBM.Changelog.Frame">
+    <Layers>
+      <BrushLayer Name="Default" Sprite="Frame1_canvas" />
+      <BrushLayer Name="Frame" ExtendTop="27" ExtendLeft="26" ExtendRight="27" ExtendBottom="29" Sprite="Frame1_frame" OverlayMethod="CoverWithTexture" OverlaySprite="stone_texture_overlay" />
+    </Layers>
+    <Styles>
+      <Style Name="Default">
+        <BrushLayer Name="Default" />
+        <BrushLayer Name="Frame" />
+      </Style>
+    </Styles>
+  </Brush>
+</Brushes>

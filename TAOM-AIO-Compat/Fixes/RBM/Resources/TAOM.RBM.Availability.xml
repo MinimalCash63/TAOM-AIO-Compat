@@ -1,0 +1,348 @@
+<Availability schemaVersion="1" taomVersion="2.0.29.5">
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/dale/ranged_ladder.xml">
+    <Item id="ladder_dale_bow_t1" is_merchandise="true" />
+    <Item id="ladder_dale_bow_t3" is_merchandise="true" />
+    <Item id="ladder_dale_bow_t4" is_merchandise="true" />
+    <Item id="ladder_dale_bow_t5" is_merchandise="true" />
+    <Item id="ladder_dale_bow_t6" is_merchandise="true" />
+    <Item id="ladder_dale_xbow_t3" is_merchandise="true" culture="Culture.sturgia" />
+    <Item id="ladder_dale_xbow_t4" is_merchandise="true" culture="Culture.sturgia" />
+    <Item id="ladder_dale_xbow_t5" is_merchandise="true" culture="Culture.sturgia" />
+    <Item id="ladder_dale_xbow_t6" is_merchandise="true" culture="Culture.sturgia" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/dale/starter_kit.xml">
+    <Item id="starter_northern_spear_1_t2" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/dol_guldur/ranged_ladder.xml">
+    <Item id="ladder_dolguldur_bow_t2" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t3" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t4" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t5" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t6" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t7" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t8" is_merchandise="true" culture="Culture.dolguldur" />
+    <Item id="ladder_dolguldur_bow_t9" is_merchandise="true" culture="Culture.dolguldur" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/dol_guldur/starter_kit.xml">
+    <Item id="starter_sk_dg_uruk_boots_light_a" is_merchandise="true" />
+    <Item id="starter_sk_dg_uruk_chest_light_a" is_merchandise="true" />
+    <Item id="starter_sk_dg_uruk_chest_light_b" is_merchandise="true" />
+    <Item id="starter_sk_dg_uruk_pauldron_med_a" is_merchandise="true" />
+    <Item id="starter_wm_dol_goldur_1h_mace_a01" is_merchandise="true" />
+    <Item id="starter_wm_dol_goldur_1h_sword_a01" is_merchandise="true" />
+    <Item id="starter_wm_dol_goldur_axe_a01" is_merchandise="true" />
+    <Item id="starter_wm_dol_goldur_halberd_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/dunland/ranged_ladder.xml">
+    <Item id="ladder_dunland_bow_t2" is_merchandise="true" culture="Culture.empire" />
+    <Item id="ladder_dunland_bow_t3" is_merchandise="true" culture="Culture.empire" />
+    <Item id="ladder_dunland_bow_t4" is_merchandise="true" culture="Culture.empire" />
+    <Item id="ladder_dunland_bow_t5" is_merchandise="true" culture="Culture.empire" />
+    <Item id="ladder_dunland_bow_t6" is_merchandise="true" culture="Culture.empire" />
+    <Item id="ladder_dunland_xbow_t4" is_merchandise="true" />
+    <Item id="ladder_dunland_xbow_t5" is_merchandise="true" />
+    <Item id="ladder_dunland_xbow_t6" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/dunland/starter_kit.xml">
+    <Item id="starter_dunland_caerdh_spear_a" is_merchandise="true" />
+    <Item id="starter_empire_sword_1_t2" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/erebor/ranged_ladder.xml">
+    <Item id="ladder_erebor_bow_t2" is_merchandise="true" />
+    <Item id="ladder_erebor_bow_t3" is_merchandise="true" />
+    <Item id="ladder_erebor_bow_t4" is_merchandise="true" />
+    <Item id="ladder_erebor_bow_t5" is_merchandise="true" />
+    <Item id="ladder_erebor_bow_t6" is_merchandise="true" />
+    <Item id="ladder_erebor_xbow_t4" is_merchandise="true" />
+    <Item id="ladder_erebor_xbow_t5" is_merchandise="true" />
+    <Item id="ladder_erebor_xbow_t6" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/erebor/starter_kit.xml">
+    <Item id="starter_sk_dwarf_erebor_arrow_a" is_merchandise="true" />
+    <Item id="starter_sk_dwarf_erebor_boots_light_a" is_merchandise="true" />
+    <Item id="starter_sk_dwarf_erebor_chest_leather_light_a" is_merchandise="true" />
+    <Item id="starter_sk_dwarf_erebor_chest_leather_light_b" is_merchandise="true" />
+    <Item id="starter_sk_dwarf_erebor_chest_leather_med_a" is_merchandise="true" />
+    <Item id="starter_sk_dwarf_erebor_pauldron_scale_a" is_merchandise="true" />
+    <Item id="starter_sm_dwarf_erebor_1h_axe_a" is_merchandise="true" />
+    <Item id="starter_sm_dwarf_erebor_bow_a" is_merchandise="true" />
+    <Item id="starter_sm_dwarf_erebor_shield_leather_a" is_merchandise="true" />
+    <Item id="starter_sm_dwarf_erebor_spear_a" is_merchandise="true" />
+    <Item id="starter_sm_dwarf_iron_sword_a" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/gondor/ranged_ladder.xml">
+    <Item id="ladder_blackroot_bow_t3" is_merchandise="true" />
+    <Item id="ladder_blackroot_bow_t4" is_merchandise="true" />
+    <Item id="ladder_blackroot_bow_t5" is_merchandise="true" />
+    <Item id="ladder_blackroot_bow_t6" is_merchandise="true" />
+    <Item id="ladder_blackroot_bow_t7" is_merchandise="true" />
+    <Item id="ladder_blackroot_bow_t8" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t2" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t3" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t4" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t5" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t6" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t7" is_merchandise="true" />
+    <Item id="ladder_gondor_bow_t8" is_merchandise="true" />
+    <Item id="ladder_gondor_xbow_t3" is_merchandise="true" culture="Culture.gondor" />
+    <Item id="ladder_gondor_xbow_t4" is_merchandise="true" culture="Culture.gondor" />
+    <Item id="ladder_gondor_xbow_t5" is_merchandise="true" culture="Culture.gondor" />
+    <Item id="ladder_gondor_xbow_t6" is_merchandise="true" culture="Culture.gondor" />
+    <Item id="ladder_gondor_xbow_t7" is_merchandise="true" culture="Culture.gondor" />
+    <Item id="ladder_gondor_xbow_t8" is_merchandise="true" culture="Culture.gondor" />
+    <Item id="ladder_ithilien_bow_t10" is_merchandise="true" />
+    <Item id="ladder_ithilien_bow_t7" is_merchandise="true" />
+    <Item id="ladder_ithilien_bow_t8" is_merchandise="true" />
+    <Item id="ladder_ithilien_bow_t9" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/gondor/starter_kit.xml">
+    <Item id="starter_gondor_noble_coat_a" is_merchandise="true" />
+    <Item id="starter_gondor_noble_coat_b" is_merchandise="true" />
+    <Item id="starter_gondor_noble_jerkin_a" is_merchandise="true" />
+    <Item id="starter_gondor_steel_bow" is_merchandise="true" />
+    <Item id="starter_ithilien_cloak" is_merchandise="true" />
+    <Item id="starter_sk_gd_ano_boots_a" is_merchandise="true" />
+    <Item id="starter_sm_gd_shield_a1" is_merchandise="true" />
+    <Item id="starter_wm_gondor_bow" is_merchandise="true" />
+    <Item id="starter_wm_gondor_light_spear" is_merchandise="true" />
+    <Item id="starter_wm_gondor_lossarnach_1h_axe_black_ash_a" is_merchandise="true" />
+    <Item id="starter_wm_gondor_spear_a" is_merchandise="true" />
+    <Item id="starter_wm_gondor_sword_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/gundabad/ranged_ladder.xml">
+    <Item id="ladder_goblin_bow_t2" is_merchandise="true" culture="Culture.goblin" />
+    <Item id="ladder_goblin_bow_t3" is_merchandise="true" culture="Culture.goblin" />
+    <Item id="ladder_goblin_bow_t4" is_merchandise="true" culture="Culture.goblin" />
+    <Item id="ladder_goblin_bow_t5" is_merchandise="true" culture="Culture.goblin" />
+    <Item id="ladder_gundabad_bow_t2" is_merchandise="true" culture="Culture.gundabad" />
+    <Item id="ladder_gundabad_bow_t3" is_merchandise="true" culture="Culture.gundabad" />
+    <Item id="ladder_gundabad_bow_t4" is_merchandise="true" culture="Culture.gundabad" />
+    <Item id="ladder_gundabad_bow_t5" is_merchandise="true" culture="Culture.gundabad" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/gundabad/starter_kit.xml">
+    <Item id="starter_sk_gb_uruk_boots_light_a" is_merchandise="true" />
+    <Item id="starter_sk_gb_uruk_cape_a" is_merchandise="true" />
+    <Item id="starter_sk_gb_uruk_chest_light_a" is_merchandise="true" />
+    <Item id="starter_sk_gb_uruk_chest_light_b" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_axe_a01" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_javelin_a01" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_spear_a01" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_sword_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/harad/ranged_ladder.xml">
+    <Item id="ladder_harad_bow_t2" is_merchandise="true" />
+    <Item id="ladder_harad_bow_t3" is_merchandise="true" />
+    <Item id="ladder_harad_bow_t4" is_merchandise="true" />
+    <Item id="ladder_harad_bow_t5" is_merchandise="true" />
+    <Item id="ladder_harad_bow_t6" is_merchandise="true" />
+    <Item id="ladder_umbar_bow_t3" is_merchandise="true" culture="Culture.umbar" />
+    <Item id="ladder_umbar_bow_t4" is_merchandise="true" culture="Culture.umbar" />
+    <Item id="ladder_umbar_bow_t5" is_merchandise="true" culture="Culture.umbar" />
+    <Item id="ladder_umbar_xbow_t5" is_merchandise="true" culture="Culture.umbar" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/harad/starter_kit.xml">
+    <Item id="starter_aserai_sword_3_t3" is_merchandise="true" />
+    <Item id="starter_aserai_sword_5_t4" is_merchandise="true" />
+    <Item id="starter_desert_round_shield" is_merchandise="true" />
+    <Item id="starter_eastern_javelin_3_t4" is_merchandise="true" />
+    <Item id="starter_eastern_spear_4_t4" is_merchandise="true" />
+    <Item id="starter_harad03_cape" is_merchandise="true" />
+    <Item id="starter_harad03_torso" is_merchandise="true" />
+    <Item id="starter_haradrim_boots" is_merchandise="true" />
+    <Item id="starter_haradrim_torso" is_merchandise="true" />
+    <Item id="starter_haradrim02_boots" is_merchandise="true" />
+    <Item id="starter_haradrim02_pauldrons" is_merchandise="true" />
+    <Item id="starter_haradrim02_toso" is_merchandise="true" />
+    <Item id="starter_haradrim02a_toso" is_merchandise="true" />
+    <Item id="starter_wm_harad_bow_a01" is_merchandise="true" />
+    <Item id="starter_wm_harad_spear_a01" is_merchandise="true" />
+    <Item id="starter_wm_harad_sword_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/isengard/ranged_ladder.xml">
+    <Item id="ladder_isengard_bow_t3" is_merchandise="true" />
+    <Item id="ladder_isengard_bow_t4" is_merchandise="true" />
+    <Item id="ladder_isengard_bow_t5" is_merchandise="true" />
+    <Item id="ladder_isengard_xbow_t2" is_merchandise="true" />
+    <Item id="ladder_isengard_xbow_t3" is_merchandise="true" />
+    <Item id="ladder_isengard_xbow_t4" is_merchandise="true" />
+    <Item id="ladder_isengard_xbow_t5" is_merchandise="true" />
+    <Item id="ladder_isengard_xbow_t6" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/isengard/starter_kit.xml">
+    <Item id="starter_isengard_1h_sword_a" is_merchandise="true" />
+    <Item id="starter_isengard_2h_axe_a" is_merchandise="true" />
+    <Item id="starter_isengard_spear_a" is_merchandise="true" />
+    <Item id="starter_sk_uruk_hai_pauldron_light_a1" is_merchandise="true" />
+    <Item id="starter_sk_uruk_hai_shoes_a1" is_merchandise="true" />
+    <Item id="starter_sk_uruk_hai_tunic_a1" is_merchandise="true" />
+    <Item id="starter_sk_uruk_hai_tunic_a2" is_merchandise="true" />
+    <Item id="starter_wm_isengard_arrow_a01" is_merchandise="true" />
+    <Item id="starter_wm_isengard_bow" is_merchandise="true" />
+    <Item id="starter_wm_isengard_bow_a01" is_merchandise="true" />
+    <Item id="starter_wm_isengard_shield_a01" is_merchandise="true" />
+    <Item id="starter_wm_isengard_shield_a03" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/LOTRAOM_weapons.xml">
+    <Item id="wm_gf_knight_spear" is_merchandise="true" />
+    <Item id="wm_gundabad_spear_a01" is_merchandise="true" />
+    <Item id="wm_gundabad_spear_a02" is_merchandise="true" />
+    <Item id="wm_gundabad_spear_a03" is_merchandise="true" />
+    <Item id="he_sword" culture="Culture.rivendell" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/mercenary/starter_kit.xml">
+    <Item id="starter_battered_kite_shield" is_merchandise="true" />
+    <Item id="starter_bodkin_arrows_a" is_merchandise="true" />
+    <Item id="starter_bodkin_arrows_b" is_merchandise="true" />
+    <Item id="starter_bodkin_arrows_c" is_merchandise="true" />
+    <Item id="starter_composite_bow" is_merchandise="true" />
+    <Item id="starter_default_arrows" is_merchandise="true" />
+    <Item id="starter_mirkwood_spear_a01" is_merchandise="true" culture="Culture.mirkwood" />
+    <Item id="starter_mirkwood_sword_a01" is_merchandise="true" culture="Culture.mirkwood" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/mirkwood/ranged_ladder.xml">
+    <Item id="ladder_mirkwood_bow_t10" is_merchandise="true" />
+    <Item id="ladder_mirkwood_bow_t2" is_merchandise="true" />
+    <Item id="ladder_mirkwood_bow_t3" is_merchandise="true" />
+    <Item id="ladder_mirkwood_bow_t8" is_merchandise="true" />
+    <Item id="ladder_mirkwood_bow_t9" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/mirkwood/starter_kit.xml">
+    <Item id="starter_mirkwood_boots" is_merchandise="true" />
+    <Item id="starter_mirkwood_shoulder" is_merchandise="true" />
+    <Item id="starter_mkwd_inf3_chest" is_merchandise="true" />
+    <Item id="starter_mkwd_inf3_chest_bronze" is_merchandise="true" />
+    <Item id="starter_mkwd_inf3_chest_silver" is_merchandise="true" />
+    <Item id="starter_wm_mirkwood_arrow_a01" is_merchandise="true" />
+    <Item id="starter_wm_mirkwood_bow_a01" is_merchandise="true" />
+    <Item id="starter_wm_mirkwood_bow_a03" is_merchandise="true" />
+    <Item id="starter_wm_mirkwood_shield_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/mordor/head_armors.xml">
+    <Item id="sk_mordor_mouth_of_sauron_helm" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/mordor/ranged_ladder.xml">
+    <Item id="ladder_mordor_bow_t2" is_merchandise="true" culture="Culture.mordor" />
+    <Item id="ladder_mordor_bow_t3" is_merchandise="true" culture="Culture.mordor" />
+    <Item id="ladder_mordor_bow_t4" is_merchandise="true" culture="Culture.mordor" />
+    <Item id="ladder_mordor_num_bow_t6" is_merchandise="true" />
+    <Item id="ladder_mordor_num_bow_t7" is_merchandise="true" />
+    <Item id="ladder_mordor_num_bow_t8" is_merchandise="true" />
+    <Item id="ladder_mordor_num_bow_t9" is_merchandise="true" />
+    <Item id="ladder_mordor_uruk_bow_t4" is_merchandise="true" />
+    <Item id="ladder_mordor_uruk_bow_t5" is_merchandise="true" />
+    <Item id="ladder_mordor_uruk_bow_t6" is_merchandise="true" />
+    <Item id="ladder_mordor_uruk_xbow_t5" is_merchandise="true" culture="Culture.mordor" />
+    <Item id="ladder_mordor_uruk_xbow_t6" is_merchandise="true" culture="Culture.mordor" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/mordor/starter_kit.xml">
+    <Item id="starter_sk_md_orc_arc_chest_light_a" is_merchandise="true" />
+    <Item id="starter_sk_md_orc_arc_chest_light_b" is_merchandise="true" />
+    <Item id="starter_sk_md_orc_boots_light_a" is_merchandise="true" />
+    <Item id="starter_sk_md_orc_inf_chest_med_a" is_merchandise="true" />
+    <Item id="starter_sk_md_orc_pauldron_light_a" is_merchandise="true" />
+    <Item id="starter_sk_uruk_mordor_boots_a" is_merchandise="true" />
+    <Item id="starter_sk_uruk_mordor_chainmail_light_a" is_merchandise="true" />
+    <Item id="starter_sm_mordor_shield_small_a" is_merchandise="true" />
+    <Item id="starter_sm_uruk_bow" is_merchandise="true" />
+    <Item id="starter_sm_uruk_bow_a" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_shield_a01" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_shield_a02" is_merchandise="true" />
+    <Item id="starter_wm_gundabad_shield_a03" is_merchandise="true" />
+    <Item id="starter_wm_mordor_set1_axe_a01" is_merchandise="true" />
+    <Item id="starter_wm_mordor_set1_polearm_a01" is_merchandise="true" />
+    <Item id="starter_wm_mordor_set1_sword_a01" is_merchandise="true" />
+    <Item id="starter_wm_mordor_set1_sword_a02" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/rhun/ranged_ladder.xml">
+    <Item id="ladder_rhun_new_bow_t2" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t3" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t4" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t5" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t6" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t7" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t8" is_merchandise="true" />
+    <Item id="ladder_rhun_new_bow_t9" is_merchandise="true" />
+    <Item id="ladder_rhun_new_xbow_t5" is_merchandise="true" culture="Culture.khuzait" />
+    <Item id="ladder_rhun_new_xbow_t6" is_merchandise="true" culture="Culture.khuzait" />
+    <Item id="ladder_rhun_new_xbow_t7" is_merchandise="true" culture="Culture.khuzait" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/rhun/starter_kit.xml">
+    <Item id="starter_composite_steppe_bow" is_merchandise="true" />
+    <Item id="starter_hunting_bow" is_merchandise="true" />
+    <Item id="starter_khuzait_sword_1_t2" is_merchandise="true" />
+    <Item id="starter_sk_rh_loke_boots_a" is_merchandise="true" />
+    <Item id="starter_sk_rh_loke_chest_light_a" is_merchandise="true" />
+    <Item id="starter_sk_rh_loke_pauldron_lam_heavy_a" is_merchandise="true" />
+    <Item id="starter_sk_rh_loke_tunic_a" is_merchandise="true" />
+    <Item id="starter_sm_dg_khml_shield_med_a" is_merchandise="true" />
+    <Item id="starter_sm_rh_loke_shield_med_a" is_merchandise="true" />
+    <Item id="starter_sm_rh_loke_spear_a" is_merchandise="true" />
+    <Item id="starter_steppe_arrows" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/rivendell/ranged_ladder.xml">
+    <Item id="ladder_rivendell_bow_t2" is_merchandise="true" />
+    <Item id="ladder_rivendell_bow_t3" is_merchandise="true" />
+    <Item id="ladder_rivendell_bow_t5" is_merchandise="true" />
+    <Item id="ladder_rivendell_bow_t6" is_merchandise="true" />
+    <Item id="ladder_rivendell_bow_t7" is_merchandise="true" />
+    <Item id="ladder_rivendell_bow_t8" is_merchandise="true" />
+    <Item id="ladder_rivendell_bow_t9" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/rivendell/starter_kit.xml">
+    <Item id="starter_highelf_longbow" is_merchandise="true" />
+    <Item id="starter_rivendell_boots_leather1" is_merchandise="true" />
+    <Item id="starter_rivendell_cape_a" is_merchandise="true" />
+    <Item id="starter_rivendell_torso_light_light_tier1" is_merchandise="true" />
+    <Item id="starter_rivendell_torso_light_light_tier2" is_merchandise="true" />
+    <Item id="starter_wm_elven_arrow_v1_a" is_merchandise="true" />
+    <Item id="starter_wm_elven_shield_a" is_merchandise="true" />
+    <Item id="starter_wm_rivendell_spear_a01" is_merchandise="true" />
+    <Item id="starter_wm_rivendell_sword_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/rohan/starter_kit.xml">
+    <Item id="starter_wm_rohan_ws_bow" is_merchandise="true" />
+    <Item id="starter_wm_rohan_ws_spear_a01" is_merchandise="true" />
+    <Item id="starter_wm_rohan_ws_sword_a01" is_merchandise="true" />
+  </File>
+  <File path="LOTRLOME_Armory/ModuleData/LOTRLOME_items/rohan/ranged_ladder.xml">
+    <Item id="ladder_rohan_bow_t1" culture="Culture.vlandia" is_merchandise="true" />
+    <Item id="ladder_rohan_bow_t2" culture="Culture.vlandia" is_merchandise="true" />
+    <Item id="ladder_rohan_bow_t3" culture="Culture.vlandia" is_merchandise="true" />
+    <Item id="ladder_rohan_bow_t4" culture="Culture.vlandia" is_merchandise="true" />
+    <Item id="ladder_rohan_bow_t5" culture="Culture.vlandia" is_merchandise="true" />
+    <Item id="ladder_rohan_bow_t6" culture="Culture.vlandia" is_merchandise="true" />
+    <Item id="ladder_rohan_bow_t7" culture="Culture.vlandia" is_merchandise="true" />
+  </File>
+  <Routing path="TAOM/ModuleData/culture_marketplace/culture_marketplace_config.xml">
+    <!--Culture-neutral items retain global eligibility through TAOM routing; min_stock=0 uses normal random replenishment. Only the seven Rohan bows have guaranteed stock.-->
+    <Item id="ladder_rohan_bow_t1" cultures="vlandia" min_stock="1" />
+    <Item id="ladder_rohan_bow_t2" cultures="vlandia" min_stock="1" />
+    <Item id="ladder_rohan_bow_t3" cultures="vlandia" min_stock="1" />
+    <Item id="ladder_rohan_bow_t4" cultures="vlandia" min_stock="1" />
+    <Item id="ladder_rohan_bow_t5" cultures="vlandia" min_stock="1" />
+    <Item id="ladder_rohan_bow_t6" cultures="vlandia" min_stock="1" />
+    <Item id="ladder_rohan_bow_t7" cultures="vlandia" min_stock="1" />
+    <Item id="numenorean_poleaxe_heavy" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_poleaxe_medium" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_greatsword_medium_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_greatsword_medium_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_greatsword_heavy_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_greatsword_heavy_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_greatsword_elite_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_greatsword_elite_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_bastard_medium_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_bastard_medium_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_bastard_heavy_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_bastard_heavy_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_bastard_elite_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="numenorean_bastard_elite_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="starter_default_arrows" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="starter_composite_bow" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="starter_bodkin_arrows_b" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="starter_bodkin_arrows_c" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="starter_bodkin_arrows_a" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="starter_battered_kite_shield" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="wm_tuors_axe_1h" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+    <Item id="wm_tuors_axe" cultures="abanissa,aserai,battania,bluecraig,dolguldur,empire,erebor,goblin,gondor,gundabad,isengard,khuzait,lindon,lothlorien,mirkwood,mistymountainorcs,mordor,rivendell,shaghana,sturgia,umbar,vlandia" min_stock="0" />
+  </Routing>
+</Availability>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="TAOM AIO Compatibility Patch" />
+  <Id value="TAOM_AIO_Compat" />
+  <Version value="v1.5.8" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" Optional="false" />
+    <DependedModule Id="SandBoxCore" Optional="false" />
+    <DependedModule Id="Sandbox" Optional="false" />
+    <DependedModule Id="TAOM.Dependencies" Optional="false" />
+    <DependedModule Id="TAOM" Optional="false" />
+  </DependedModules>
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata id="Native" order="LoadBeforeThis" optional="false" />
+    <DependedModuleMetadata id="SandBoxCore" order="LoadBeforeThis" optional="false" />
+    <DependedModuleMetadata id="Sandbox" order="LoadBeforeThis" optional="false" />
+    <DependedModuleMetadata id="TAOM.Dependencies" order="LoadBeforeThis" optional="false" />
+    <DependedModuleMetadata id="TAOM" order="LoadBeforeThis" optional="false" />
+    <DependedModuleMetadata id="Retinues" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="RBM" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="TAOM_Standalone_Compat_RBM" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="HoldTheLine" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="Bodyguards" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="TAOM_Voices" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="XorberaxLegacy" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="ImprovedGarrisons" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="DualWield" order="LoadBeforeThis" optional="true" />
+    <DependedModuleMetadata id="RTSCamera.CommandSystem" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="DismembermentPlus" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="PartyQuality" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="Limitless" order="LoadAfterThis" optional="true" />
+  </DependedModuleMetadatas>
+  <SubModules>
+    <SubModule>
+      <Name value="TAOM AIO Compatibility Patch" />
+      <DLLName value="TAOM-AIO-Compat.dll" />
+      <SubModuleClassType value="TAOM_AIO_Compat.SubModule" />
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+</Module>

@@ -1,0 +1,6 @@
+<Project>
+  <!-- Build output for clones of this repository: the finished module folder goes to build\TAOM-AIO-Compat\ here. -->
+  <PropertyGroup>
+    <ModuleOut Condition="'$(ModuleOut)' == ''">$(MSBuildThisFileDirectory)build\TAOM-AIO-Compat\</ModuleOut>
+  </PropertyGroup>
+</Project>

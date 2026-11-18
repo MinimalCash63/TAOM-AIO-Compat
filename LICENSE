@@ -1,0 +1,24 @@
+TAOM AIO Compatibility Patch
+Copyright (c) 2026 MinimalCash63
+
+Free to use, ask to copy.
+
+1. You may download this module and use it in your own games, in single player
+   and in co-op.
+
+2. Bug reports and pull requests to this repository are welcome. Forking on
+   GitHub to prepare a pull request is allowed.
+
+3. Do not re-upload this module or its source to other sites, and do not
+   distribute changed copies, without written permission from MinimalCash63.
+
+4. Some parts are based on other authors' work and are used with their
+   permission. They stay under their authors' own terms:
+   - the RBM and Xorberax's Legacy switches, based on Theb0yys' TAOM
+     compatibility patches (Nexus Mods, mod 13207), including the RBM balance
+     tables in TAOM-AIO-Compat/Fixes/RBM/Resources/;
+   - the Dual Wield troop file (TAOM-AIO-Compat/Module/ModuleData/
+     aio_dualwield_troops.xml), from Dual Wield - TAOM by the TAOM mod
+     developers.
+
+5. This module comes with no warranty of any kind. Use it at your own risk.
