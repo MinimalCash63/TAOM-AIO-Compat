@@ -6,6 +6,11 @@ It doesn't replace or edit any of those mods. Install them from their own pages,
 
 Download: [Releases](../../releases). Current version: v1.5.8.
 
+> [!IMPORTANT]
+> **You need the TAOM Dependency Patch** ([Nexus mod 13196](https://www.nexusmods.com/mountandblade2bannerlord/mods/13196)).
+> Without it, the launcher won't let you tick Xorberax's Legacy, Voices of the Waning Realm (TAOM Voices) or Retinues: they stay greyed out with a red **!**. Unblocking files doesn't help.
+> Install it and tick its four "TAOM Dependencies Proxy" entries right after TAOM Dependencies, above Native. Don't install the separate Harmony, ButterLib, UIExtenderEx or MCM mods as well.
+
 ## How the switches work
 
 Each mod has its own switch in Mod Options (MCM), on the "TAOM AIO Compatibility Patch" page.
@@ -32,6 +37,39 @@ Each mod has its own switch in Mod Options (MCM), on the "TAOM AIO Compatibility
 
 More detail for each switch is in `README.txt` inside the module folder.
 
+## Tested mod list
+
+These are the mods and versions we play with this module on Bannerlord 1.5.7, in this load order. Other versions may work, but these are the ones we know load and play together.
+
+1. TAOM Dependencies 2.0.40, then the four TAOM Dependency Patch proxies (Harmony, ButterLib, UIExtenderEx, Mod Configuration Menu)
+2. Native, SandBoxCore, Sandbox, StoryMode, CustomBattle
+3. LOTRLOME Armory 2.0.40
+4. Dual Wield 0.10.7
+5. TAOM Map 2.0.40
+6. TAOM 2.0.40
+7. TAOM AIO Compatibility Patch 1.5.8
+8. Xorberax's Legacy 1.0.8.8
+9. Voices of the Waning Realm (TAOM Voices) 1.0.0 (see Known issues)
+10. RTS Camera 5.5.4
+11. RTS Camera Command System 5.5.4
+12. Bodyguards Reloaded 1.2.13
+13. Retinues 2.0.0.16
+14. Limitless 1.0.2.1 (single player only)
+15. BattleSize Resized 2.0.4
+16. Dismemberment Plus 2.0.8.8
+17. Realistic Blood 1.1.7
+18. Perfect Fire Arrows 6.8.2
+19. Immersive Battlefields 3.7.0
+20. More Formation Banners 1.0.7
+21. Party Quality 1.2.3
+22. Tier Visual 1.4.6
+23. Improved Garrisons 4.3.1.0
+24. Hold the Line 0.2.4
+25. Realistic Battle Mod (RBM) 4.8.2
+26. Bannerlord Co-op and TAOM.CoopCompat 2.0.40 (co-op only; untick both for single player)
+
+Co-op was tested with a development build of Co-op for Bannerlord 1.5.x. Every player must use the same Co-op build.
+
 ## Requirements
 
 - Bannerlord 1.5.7
@@ -55,6 +93,7 @@ While Coop is ticked, TAOM uses the game's standard UI instead of its own, even 
 
 ## Known issues
 
+- Xorberax's Legacy, TAOM Voices or Retinues can't be ticked in the launcher: install the TAOM Dependency Patch (see the box at the top).
 - TAOM Voices doesn't play in conversations yet. The game doesn't crash.
 - Retinues may still create a default retinue for a player joining a co-op game.
 - Switches aren't compared between co-op players, so make sure everyone uses the same ones.
