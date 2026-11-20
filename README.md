@@ -11,6 +11,11 @@ Download: [Releases](../../releases). Current version: v1.5.8.
 > Without it, the launcher won't let you tick Xorberax's Legacy, Voices of the Waning Realm (TAOM Voices) or Retinues: they stay greyed out with a red **!**. Unblocking files doesn't help.
 > Install it and tick its four "TAOM Dependencies Proxy" entries right after TAOM Dependencies, above Native. Don't install the separate Harmony, ButterLib, UIExtenderEx or MCM mods as well.
 
+> [!WARNING]
+> **AIO not showing in the launcher? It's probably one folder too deep.**
+> Windows' "Extract All" puts the files in a new folder named after the zip, so you end up with `Modules\TAOM-AIO-Compat-v1.5.8\TAOM-AIO-Compat\`. The launcher only looks one folder deep and won't find it.
+> Open `Modules\TAOM-AIO-Compat`: you should see `SubModule.xml` and a `bin` folder right there. If you see another `TAOM-AIO-Compat` folder inside instead, move that inner folder into `Modules`.
+
 ## How the switches work
 
 Each mod has its own switch in Mod Options (MCM), on the "TAOM AIO Compatibility Patch" page.
