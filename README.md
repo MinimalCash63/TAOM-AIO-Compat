@@ -4,6 +4,8 @@
 > **Read this before you download.**
 > Download the mod here: [TAOM-AIO-Compat-v1.5.24.zip](https://github.com/MinimalCash63/TAOM-AIO-Compat/releases/download/v1.5.24/TAOM-AIO-Compat-v1.5.24.zip) (also under [Releases](https://github.com/MinimalCash63/TAOM-AIO-Compat/releases/latest)). Don't use the green Code → Download ZIP button; it has no mod in it. Drag the `TAOM-AIO-Compat` folder from the zip into your Bannerlord `Modules` folder.
 
+Website: [minimalcash63.github.io/TAOM-MODS](https://minimalcash63.github.io/TAOM-MODS/), with both TAOM mods and a link to Coodsz's TAOM co-op tools.
+
 Makes popular Bannerlord mods work with TAOM (Tales from the Age of Men) 2.0.41 or newer on Bannerlord 1.5.7, in single player and co-op. It doesn't edit or replace those mods; install them from their own pages.
 
 Current version: v1.5.24. v1.5.23 and v1.5.24 have not been played in game yet.
